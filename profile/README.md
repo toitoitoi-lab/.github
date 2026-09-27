@@ -32,13 +32,22 @@
 
 ---
 
-### 2. techo（準備中）
+### 2. techo（手帳）
+
+<a href="https://toitoitoi-lab.github.io/techo/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/techo.png" alt="techo の画面。左は今日の予定と予定の登録、右は役割ごとの今週の大石と今月の見通し" width="100%"></a>
 
 **つくった理由**
 役割がいくつもあり、それぞれが別々に動いている状態を、1つの構造として見渡すため。フランクリン・プランナーの「使命 → 大きな石 → 日々の優先順位」を土台にした、自分用の手帳アプリです。異動しても記録を失わないよう、個人の Google アカウントで動かします。
 
-**動かし方**　Google Apps Script ＋ Google スプレッドシート ＋ Google カレンダー。
-公開の準備をしています。
+**できること**
+- Google カレンダーと学校の予定（限定公開 ICS）を、1つの「今日」にまとめて見る
+- まとめて話した予定・タスク・目標を、AI が1件ずつに分けて優先度を付ける
+- 役割ごとに「今週の大石」を決め、月と週の見通しを持つ
+- 1日1ページの手書きメモ
+
+**動かし方**　Google Apps Script ＋ スプレッドシート ＋ カレンダー ＋ Gemini API。自分の Google アカウントでのセットアップが必要です（デモは架空のデータで画面だけ試せます）。
+
+**[▶ デモを開く](https://toitoitoi-lab.github.io/techo/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/techo)**　｜　**[セットアップの手順](https://github.com/toitoitoi-lab/techo#セットアップ20分ほど)**
 
 ---
 
