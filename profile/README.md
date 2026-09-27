@@ -28,7 +28,7 @@
 
 **動かし方**　画面（HTML）＋ Google Apps Script ＋ Gemini API。AIの機能は、自分の Google アカウントでのセットアップが必要です。
 
-**[▶ アプリを開く](https://toitoitoi-lab.github.io/sensei-assist/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/sensei-assist)**　｜　**[セットアップの手順](https://github.com/toitoitoi-lab/sensei-assist#セットアップ15分ほど)**
+**[▶ アプリを開く](https://toitoitoi-lab.github.io/sensei-assist/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/sensei-assist)**　｜　**[セットアップの手順](https://github.com/toitoitoi-lab/sensei-assist#セットアップ)**
 
 ---
 
