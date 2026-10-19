@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://toitoitoi-lab.github.io/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/banner.png" alt="toi toi toi　アプリの置き場　AT（ICT）を使った学びの支援のために、つくってきた道具" width="100%"></a>
+  <a href="https://toitoitoi-lab.github.io/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/banner.png" alt="toi toi toi lab　アプリの置き場　AT（ICT）を使った学びの支援のために、つくってきた道具" width="100%"></a>
 </p>
 
 公立学校の教員が、個人の活動としてつくってきたアプリを置いています。
@@ -68,6 +68,24 @@
 **動かし方**　ブラウザだけで動きます。ログインや設定は不要で、スマホのホーム画面にも追加できます。
 
 **[アプリを開く](https://toitoitoi-lab.github.io/kotomusubi/)** ｜ **[ソースコード](https://github.com/toitoitoi-lab/kotomusubi)**
+
+### 4. Sunlit Path（場面から英語で伝える）
+
+<a href="https://toitoitoi-lab.github.io/Sunlit-Path/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/sunlit-path.png" alt="Sunlit Path の画面。左に「基本・発展・会話」の3つの言い方とお手本の会話、右に言い方と言葉を選んでできた自分の文が並ぶ" width="100%"></a>
+
+**つくった理由**　高校「論理・表現Ⅰ」を、肢体不自由と知的障害のある生徒が学ぶために作りました。教科書の課ごとに文法を区切るのではなく、「自分の町を紹介する」のような場面（テーマ）を道に見立て、中学校の文法を復習しながら、高校の表現を少しずつ重ねていきます。学習指導要領をもとにしており、教科書の本文は使っていません。
+
+**できること**
+- 12のテーマを、4つの言い方を作ってつなぎ、最後に話す形で進めます（表現から選んで進むこともできます）
+- 1つの言い方を「基本（中学校）・発展（高等学校）・会話」の3段で聞いて比べます（「～」の所は少し間をあけて読み上げます）
+- 言い方と言葉を選ぶだけで、自分の文ができます。ABCキーボード（アルファベット順）・声・手書きでも書けます
+- 取り組み方を「やさしい・標準・実践」から選べ、いつでも変えられます
+- CEFR A1–A2 の辞書（2,557語）つき。画面の文字は、英語・漢字・ふりがなつきから選べます
+- 入力した内容は、この端末の中だけで使います（サーバーには送りません）
+
+**動かし方**　ブラウザだけで動きます。ログインや設定は不要で、iPad での利用を想定しています。
+
+**[▶ アプリを開く](https://toitoitoi-lab.github.io/Sunlit-Path/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/Sunlit-Path)**
 
 ---
 ## 利用について
