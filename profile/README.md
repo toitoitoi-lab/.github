@@ -88,6 +88,26 @@
 **[▶ アプリを開く](https://toitoitoi-lab.github.io/Sunlit-Path/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/Sunlit-Path)**
 
 ---
+
+### 5. まなざしアトリエ（見つめて えがく）
+
+<a href="https://toitoitoi-lab.github.io/manazashi-atelier/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/manazashi-atelier.png" alt="まなざしアトリエの画面。夜空のような背景に、視線で描いた花やしゃぼん玉が広がり、左に見つめて選ぶ大きな丸いボタンが4つ並ぶ" width="100%"></a>
+
+**つくった理由**　視線入力で描かれた絵には、描いた人のそのときの気持ちが映ります。視線入力装置がある場所でも、ない場所でも、見つめることがそのまま表現になる体験を届けたくて作りました。見る → 色が出る、という因果関係の学びから、自分でふでや色を選んで描く表現まで、ひとつのアプリで段階的に使えます。
+
+**できること**
+- 見つめたところに色が広がり、じっと見るとしゃぼん玉や花がふくらみます（ふで5種類・色8種類・左右対称や万華鏡のもよう）
+- 見つめて選ぶ大きなボタンで、ふで・いろ・もようを本人が切り替えられます
+- 視線入力装置（マウスモード）のほか、パソコンやタブレットのカメラ（内蔵・外付け）、マウス・タッチでも使えます
+- 手ぶれ補正、ボタンを押せるまでの時間、ボタンの位置・大きさなどを支援者が合わせられます
+- 作品と「見ていた記録」（描いていた時間・画面のどこをよく見たか）を残し、まとめて保存できます
+- 入力した内容とカメラの映像は、この端末の中だけで使います（サーバーには送りません）
+
+**動かし方**　ブラウザだけで動きます。ログインや設定は不要です。学校の Google アカウントで Google Apps Script に設定すると、作品と記録をスプレッドシートとドライブに残す学校版として使えます。
+
+**[▶ アプリを開く](https://toitoitoi-lab.github.io/manazashi-atelier/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/manazashi-atelier)**　｜　**[学校版のセットアップ](https://github.com/toitoitoi-lab/manazashi-atelier#学校版google-apps-scriptで使う)**
+
+---
 ## 利用について
 
 - **コード**は MIT ライセンスです。自由に使い、改変できます。
