@@ -1,3 +1,4 @@
+<!-- このファイルを直すときは、GitHub にある今の版をもとに直してから上げてください（手元の古い版で上書きすると、目次・利用について・18歳以上の注記などが消えます）。 -->
 <p align="center">
   <a href="https://toitoitoi-lab.github.io/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/banner.png" alt="toi toi toi lab　アプリの置き場　AT（ICT）を使った学びの支援のために、つくってきた道具" width="100%"></a>
 </p>
