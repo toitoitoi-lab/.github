@@ -7,9 +7,27 @@
 
 [サイト](https://toitoitoi-lab.github.io/)　｜　[YouTube](https://www.youtube.com/@toitoitoi-lab)　｜　[note](https://note.com/malu_malu)　｜　[利用ルール](https://toitoitoi-lab.github.io/rules/)
 
+## 利用について
+
+- **コード**の扱いは、アプリごとに違います。せんせいアシスト・techo・Sunlit Path・まなざしアトリエは MIT ライセンスで、自由に使い、改変できます。ことむすびは独自の「[利用のきまり](https://github.com/toitoitoi-lab/kotomusubi#利用のきまり)」があります。
+- **記事・教材や、アプリの考え方を研修などで紹介するとき**は、事前にご連絡ください。→ [利用ルール](https://toitoitoi-lab.github.io/rules/)
+- このページやコードを、訪問者が書きかえることはできません。改良したいときは、自分のアカウントに複製（Fork）して使ってください。
+
 ---
 
 ## アプリ一覧
+
+名前を押すと、そのアプリの説明に移ります。
+
+| アプリ | どんなアプリか | おもに使う人 |
+|---|---|---|
+| [1. せんせいアシスト](#sensei-assist) | **支援を考える・学ぶ**（自立活動の6区分27項目をもとに、AI と支援の例を出す） | 先生・支援者（研修にも。18歳以上。AI の規約による） |
+| [2. techo（手帳）](#techo) | **予定・行動の管理**（話すだけで予定が入る手帳） | 大人・支援者（18歳以上。AI の規約による） |
+| [3. ことむすび](#kotomusubi) | **VOCA・コミュニケーション支援**（話すことが難しいとき、場面かん黙、ことばが出にくいときに） | 本人・家族・支援者 |
+| [4. Sunlit Path](#sunlit-path) | **教科学習：英語**（中学の文法の復習から、高校「論理・表現Ⅰ」へ） | 中学生・高校生・学び直したい人 |
+| [5. まなざしアトリエ](#manazashi-atelier) | **視線入力・表現活動**（見つめて絵を描く。描くと音も鳴る。美術・図工や、見る力の学びに） | 本人・先生・支援者 |
+
+<a id="sensei-assist"></a>
 
 ### 1. せんせいアシスト（仮想の児童生徒で支援を学ぶ）
 
@@ -32,6 +50,8 @@
 
 ---
 
+<a id="techo"></a>
+
 ### 2. techo（手帳）
 
 <a href="https://toitoitoi-lab.github.io/techo/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/techo.png" alt="techo の画面。左は今日の予定と予定の登録、右は役割ごとの今週の大石と今月の見通し" width="100%"></a>
@@ -50,6 +70,8 @@
 **[▶ デモを開く](https://toitoitoi-lab.github.io/techo/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/techo)**　｜　**[セットアップの手順](https://github.com/toitoitoi-lab/techo#セットアップ20分ほど)**
 
 ---
+<a id="kotomusubi"></a>
+
 ### 3. ことむすび（ことばを えらんで つたえる）
 
 <a href="https://toitoitoi-lab.github.io/kotomusubi/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/kotomusubi/main/docs/preview.png" alt="ことむすびの画面。場面と気持ちを選ぶと、ことばが表示され、声で読み上げられる" width="720"></a>
@@ -61,13 +83,15 @@
 - ひらがな・カタカナ・アルファベットで、自分のことばをつくれます（アルファベット順／タイピング順の切り替えつき）
 - よく使うことばを「ことば帖」に残し、印刷もできます
 - 日本語と英語に対応しています
-- 入力した内容は、この端末の中だけで使います（サーバーには送りません）
+- 入力した内容は、使っている人のスマホやパソコンの中だけで使います（サーバーには送りません）
 
 **注意**　これは緊急通報サービスではありません。命や安全にかかわるときは、110番・119番など、すぐに助けを呼べる方法を使ってください。
 
 **動かし方**　ブラウザだけで動きます。ログインや設定は不要で、スマホのホーム画面にも追加できます。
 
 **[アプリを開く](https://toitoitoi-lab.github.io/kotomusubi/)** ｜ **[ソースコード](https://github.com/toitoitoi-lab/kotomusubi)**
+
+<a id="sunlit-path"></a>
 
 ### 4. Sunlit Path（場面から英語で伝える）
 
@@ -81,13 +105,15 @@
 - 言い方と言葉を選ぶだけで、自分の文ができます。ABCキーボード（アルファベット順）・声・手書きでも書けます
 - 取り組み方を「やさしい・標準・実践」から選べ、いつでも変えられます
 - CEFR A1–A2 の辞書（2,557語）つき。画面の文字は、英語・漢字・ふりがなつきから選べます
-- 入力した内容は、この端末の中だけで使います（サーバーには送りません）
+- 入力した内容は、使っている人のスマホやパソコンの中だけで使います（サーバーには送りません）
 
 **動かし方**　ブラウザだけで動きます。ログインや設定は不要で、iPad での利用を想定しています。
 
 **[▶ アプリを開く](https://toitoitoi-lab.github.io/Sunlit-Path/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/Sunlit-Path)**
 
 ---
+
+<a id="manazashi-atelier"></a>
 
 ### 5. まなざしアトリエ（見つめて えがく）
 
@@ -104,15 +130,8 @@
 - 視線入力装置（マウスモード）のほか、パソコンやタブレットのカメラ（内蔵・外付け）、マウス・タッチでも使えます
 - 手ぶれ補正、ボタンを押せるまでの時間、ボタンの位置・大きさなどを支援者が合わせられます
 - 作品と「見ていた記録」（描いていた時間・画面のどこをよく見たか）を残し、まとめて保存できます
-- 入力した内容とカメラの映像は、この端末の中だけで使います（サーバーには送りません）
+- 入力した内容とカメラの映像は、使っている人のパソコンやタブレットの中だけで使います（サーバーには送りません）
 
 **動かし方**　ブラウザだけで動きます。ログインや設定は不要です。学校の Google アカウントで Google Apps Script に設定すると、作品と記録をスプレッドシートとドライブに残す学校版として使えます。
 
 **[▶ アプリを開く](https://toitoitoi-lab.github.io/manazashi-atelier/)**　｜　**[コードを見る](https://github.com/toitoitoi-lab/manazashi-atelier)**　｜　**[学校版のセットアップ](https://github.com/toitoitoi-lab/manazashi-atelier#学校版google-apps-scriptで使う)**
-
----
-## 利用について
-
-- **コード**は MIT ライセンスです。自由に使い、改変できます。
-- **記事・教材や、アプリの考え方を研修などで紹介するとき**は、事前にご連絡ください。→ [利用ルール](https://toitoitoi-lab.github.io/rules/)
-- このページやコードを、訪問者が書きかえることはできません。改良したいときは、自分のアカウントに複製（Fork）して使ってください。
