@@ -32,8 +32,6 @@
 
 ### 1. せんせいアシスト（仮想の児童生徒で支援を学ぶ）
 
-![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fsensei-assist%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fsensei-assist%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
-
 <a href="https://toitoitoi-lab.github.io/sensei-assist/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/sensei-assist.png" alt="せんせいアシストの画面。左に自立活動の項目ごとのスライダー、右に6区分のレーダーチャートが並ぶ" width="100%"></a>
 
 **つくった理由**
@@ -57,8 +55,6 @@
 
 ### 2. techo（手帳）
 
-![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Ftecho%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Ftecho%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
-
 <a href="https://toitoitoi-lab.github.io/techo/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/techo.png" alt="techo の画面。左は今日の予定と予定の登録、右は役割ごとの今週の大石と今月の見通し" width="100%"></a>
 
 **つくった理由**
@@ -78,8 +74,6 @@
 <a id="kotomusubi"></a>
 
 ### 3. ことむすび（ことばを えらんで つたえる）
-
-![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fkotomusubi%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fkotomusubi%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
 
 <a href="https://toitoitoi-lab.github.io/kotomusubi/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/kotomusubi/main/docs/preview.png" alt="ことむすびの画面。場面と気持ちを選ぶと、ことばが表示され、声で読み上げられる" width="720"></a>
 
@@ -101,8 +95,6 @@
 <a id="sunlit-path"></a>
 
 ### 4. Sunlit Path（場面から英語で伝える）
-
-![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2FSunlit-Path%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2FSunlit-Path%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
 
 <a href="https://toitoitoi-lab.github.io/Sunlit-Path/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/sunlit-path.png" alt="Sunlit Path の画面。左に「基本・発展・会話」の3つの言い方とお手本の会話、右に言い方と言葉を選んでできた自分の文が並ぶ" width="100%"></a>
 
@@ -126,8 +118,6 @@
 
 ### 5. まなざしアトリエ（見つめて えがく）
 
-![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fmanazashi-atelier%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fmanazashi-atelier%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
-
 <a href="https://toitoitoi-lab.github.io/manazashi-atelier/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/manazashi-atelier.png" alt="まなざしアトリエの画面。夜空のような背景に、視線で描いた花やしゃぼん玉が広がり、左に見つめて選ぶ大きな丸いボタンが4つ並ぶ" width="100%"></a>
 
 **つくった理由**　視線入力で描かれた絵には、描いた人のそのときの気持ちが映ります。視線入力装置がある場所でも、ない場所でも、見つめることがそのまま表現になる体験を届けたくて作りました。見る → 色が出る、という因果関係の学びから、自分でふでや色を選んで描く表現まで、ひとつのアプリで段階的に使えます。
@@ -137,7 +127,8 @@
 - ふで・いろ・もようのボタンを見つめると一覧が開き、本人が見つめて選べます。もどる・すすむ・けす・リセットもあります
 - ペンの上げ下げの合図（見つめる・ゆっくりまばたき・スイッチ・ボタンの帯・角の印）で、どこから描き、どこでやめるかを本人が決められます。顔の向きで描くときの合図のアイデアを募集しています
 - 視線入力だけでなく、マウスやトラックボール、タブレットの指でも描けます。ボタンの位置・数・大きさを、その子に合わせて変えられます
-- カメラで使うときは、目をゆっくりとじて決めることもできます（ふつうのまばたきでは決まりません）
+- カメラで使うときは、光るボタンが自動で順に進み、決めたいところで目をとじると決まります（ふつうのまばたきでは決まりません）
+- 「あそぶ」では、出てくるものを見つける「みつけて」、動くものを目で追いかける「ついてきて」、見つめたふうせんがわれる「ふうせん」を選べます。失敗はなく、できたことが絵に残ります
 - 視線入力装置（マウスモード）のほか、パソコンやタブレットのカメラ（内蔵・外付け）、マウス・タッチでも使えます
 - 手ぶれ補正、ボタンを押せるまでの時間、ボタンの位置・大きさなどを支援者が合わせられます
 - 作品と「見ていた記録」（描いていた時間・画面のどこをよく見たか）を残し、まとめて保存できます
