@@ -32,6 +32,8 @@
 
 ### 1. せんせいアシスト（仮想の児童生徒で支援を学ぶ）
 
+![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fsensei-assist%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fsensei-assist%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
+
 <a href="https://toitoitoi-lab.github.io/sensei-assist/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/sensei-assist.png" alt="せんせいアシストの画面。左に自立活動の項目ごとのスライダー、右に6区分のレーダーチャートが並ぶ" width="100%"></a>
 
 **つくった理由**
@@ -55,6 +57,8 @@
 
 ### 2. techo（手帳）
 
+![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Ftecho%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Ftecho%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
+
 <a href="https://toitoitoi-lab.github.io/techo/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/techo.png" alt="techo の画面。左は今日の予定と予定の登録、右は役割ごとの今週の大石と今月の見通し" width="100%"></a>
 
 **つくった理由**
@@ -74,6 +78,8 @@
 <a id="kotomusubi"></a>
 
 ### 3. ことむすび（ことばを えらんで つたえる）
+
+![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fkotomusubi%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fkotomusubi%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
 
 <a href="https://toitoitoi-lab.github.io/kotomusubi/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/kotomusubi/main/docs/preview.png" alt="ことむすびの画面。場面と気持ちを選ぶと、ことばが表示され、声で読み上げられる" width="720"></a>
 
@@ -96,6 +102,8 @@
 
 ### 4. Sunlit Path（場面から英語で伝える）
 
+![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2FSunlit-Path%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2FSunlit-Path%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
+
 <a href="https://toitoitoi-lab.github.io/Sunlit-Path/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/sunlit-path.png" alt="Sunlit Path の画面。左に「基本・発展・会話」の3つの言い方とお手本の会話、右に言い方と言葉を選んでできた自分の文が並ぶ" width="100%"></a>
 
 **つくった理由**　高校「論理・表現Ⅰ」を、肢体不自由と知的障害のある生徒が学ぶために作りました。教科書の課ごとに文法を区切るのではなく、「自分の町を紹介する」のような場面（テーマ）を道に見立て、中学校の文法を復習しながら、高校の表現を少しずつ重ねていきます。学習指導要領をもとにしており、教科書の本文は使っていません。
@@ -117,6 +125,8 @@
 <a id="manazashi-atelier"></a>
 
 ### 5. まなざしアトリエ（見つめて えがく）
+
+![バージョン](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fmanazashi-atelier%2Fversion.json&query=%24.version&label=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800&prefix=v) ![更新日](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftoitoitoi-lab.github.io%2Fmanazashi-atelier%2Fversion.json&query=%24.updated&label=%E6%9B%B4%E6%96%B0%E6%97%A5&color=d4ff3a&labelColor=0b0c0f&cacheSeconds=1800)
 
 <a href="https://toitoitoi-lab.github.io/manazashi-atelier/"><img src="https://raw.githubusercontent.com/toitoitoi-lab/.github/main/profile/manazashi-atelier.png" alt="まなざしアトリエの画面。夜空のような背景に、視線で描いた花やしゃぼん玉が広がり、左に見つめて選ぶ大きな丸いボタンが4つ並ぶ" width="100%"></a>
 
